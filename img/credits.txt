@@ -1,0 +1,3 @@
+card images from https://code.google.com/archive/p/vector-playing-cards/downloads (public domain, no attribution required) 
+back of card image from http://clipart-library.com/clipart/8cxrbGE6i.htm (personal use) 
+converted to PNG and resized with Pixlr (https://pixlr.com/x/#editor)
